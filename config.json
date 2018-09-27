@@ -1,0 +1,14 @@
+{
+	"blacklistBots":true,
+	"blacklistSelf":true,
+	"whitelistUsers":false,
+	"whitelistChannels":false,
+	"blacklistUsers":true,
+	"blacklistChannels":true,
+	"overrideUsers":[
+	],
+	"logBlacklistedUsers":false,
+	"logBlacklistedChannels":false,
+	"tempDir":"./temp",
+	"tempFileUpladDir":"./temp/Image Upload"
+}
