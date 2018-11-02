@@ -1,0 +1,9 @@
+node_modules/
+test/
+Images/[0-9]*.png
+testing[0-9]*.js
+testing.js
+token.json
+time.js
+sharpTesting.js
+!temp/

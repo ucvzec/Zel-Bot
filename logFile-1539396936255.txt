@@ -1,0 +1,2 @@
+Message [10/12/2018 21:15:42]: truedeathgm: !test
+Message [10/12/2018 21:15:42]: Zel Bot: Test Message Recieved
