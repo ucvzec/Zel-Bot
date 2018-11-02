@@ -69,7 +69,7 @@ let commands = new Array(0);
 const {Logger,getTimeNow} = require("./zLogging.js");
 //so it can be accessed later. Currently we don't have a persisant log setup
 //also need to remove spaces for linux, tehehe
-let logFileName = `logFile-${Date.now()}.txt`;
+let logFileName = `logFile-${Date.now()}.log`;
 const logFile = new Logger(logFileName);
 
 //loads my simple time class, mostly used for time stamping things.

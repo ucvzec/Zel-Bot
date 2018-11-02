@@ -7,3 +7,4 @@ token.json
 time.js
 sharpTesting.js
 !temp/
+*.log
